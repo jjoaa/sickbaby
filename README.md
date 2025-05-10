@@ -6,7 +6,7 @@
 OPEN API 는 공공데이터포털과 카카오맵을 이용하였습니다.
 
 <br /> <br />
-![Image](https://github.com/user-attachments/assets/b0960e2a-9eec-4163-bde1-26d8b8f3d4d6)
+![Image](https://github.com/user-attachments/assets/33257c33-c981-48cc-ba92-a20220a041ab)
 <br /> <br />
 ![Image](https://github.com/user-attachments/assets/655a7426-2b1b-424c-b7d3-e19e4512e6a8)
 
